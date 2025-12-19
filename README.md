@@ -27,3 +27,7 @@ The goal of the project was to create a high-impact visualization regarding glob
 ## 📊 Data Sources
 * **Our World in Data**
 * **Food and Agriculture Organization of the United Nations (FAO)** - Data updated to 2025.
+
+## Vista Previa del Gráfico
+
+![Vista Previa del Gráfico](GigantesProduccionCarnica.png)
